@@ -1,9 +1,14 @@
+## Author: Jeff Noel
+## Created: Jan 25, 2015
+## Edited: Jan 25, 2015
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
+    ## test edit
 
 }
 
